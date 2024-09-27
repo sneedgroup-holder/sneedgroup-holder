@@ -1,4 +1,4 @@
-# We now have a mirror!
+# We have moved!
 
 https://sneedgit.nodemixaholic.com
 
